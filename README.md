@@ -63,4 +63,4 @@ HFUT-Cheater-ListCollection 合肥工业大学作弊学生名单、行政包庇�
 
 投稿作弊者及其行为可联系邮箱
 
-- [hfutcheater@proton.me
+- hfutcheater@proton.me
